@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\user\\Desktop\\HardhatSolidity\\contracts\\Payments.sol": {
+      "lastModificationDate": 1684237140964,
+      "contentHash": "1c91c2f83b040308bc369572e5a43b66",
+      "sourceName": "contracts/Payments.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Payments"
+      ]
+    },
+    "C:\\Users\\user\\Desktop\\ModifiersProjectSolidity\\contracts\\PayFunctionTest.sol": {
+      "lastModificationDate": 1684673238143,
+      "contentHash": "61a1ef08a5ed892dc6f896f7cd4a3f2f",
+      "sourceName": "contracts/PayFunctionTest.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "PayFunctionTest"
+      ]
+    }
+  }
+}
